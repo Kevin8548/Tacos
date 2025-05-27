@@ -1,7 +1,6 @@
 <template>
   <div>
-    <!-- Contenido de prueba o real -->
-    Página de Sabores
+    Locales
   </div>
 </template>
 

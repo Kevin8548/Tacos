@@ -16,7 +16,7 @@ import Registro from '../views/registro.vue'
 import Sabores from '../views/sabores.vue'
 
 const routes = [
-  { path: '/', component: Inicio },
+  { path: '/inicio', component: Inicio },
   { path: '/carrito', component: Carrito },
   { path: '/cotizar', component: Cotizar },
   { path: '/sabores', component: Sabores },

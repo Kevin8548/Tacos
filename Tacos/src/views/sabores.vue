@@ -1,7 +1,6 @@
 <template>
   <div>
-    <!-- Contenido de prueba o real -->
-    Página de Sabores
+    <h1>Sabores juas</h1>
   </div>
 </template>
 
@@ -10,3 +9,6 @@ export default {
   name: 'Sabores'
 }
 </script>
+
+<style>
+</style>
