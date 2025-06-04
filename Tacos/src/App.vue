@@ -51,6 +51,7 @@
 
 .nav-links a {
   display: flex;
+  font-family: 'Roboto', sans-serif;
   align-items: center;
   height: 90px;
   color: rgb(0, 0, 0);
